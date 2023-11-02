@@ -24,9 +24,14 @@ Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.State.Editor.ref.dll_C13AB9B8
 Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.State.ref.dll_695E51A145AA52F5.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.VisualStudio.Editor.ref.dll_CFFC789CDF177EE0.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.XR.ARAnalytics.Editor.ref.dll_9FEF5C3035EBB305.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.XR.ARCore.Editor.ref.dll_CE1F8AF969C2A0E2.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.XR.ARCore.ref.dll_249F61AE0F9F47BF.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.XR.ARFoundation.Editor.ref.dll_9CA065F5F2E87FDE.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.XR.ARFoundation.InternalUtils.ref.dll_E33CE4E83D9D7519.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.XR.ARFoundation.ref.dll_BB6F45595548A903.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.XR.ARKit.Editor.ref.dll_E485442D49B6D5B5.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.XR.ARKit.FaceTracking.ref.dll_B3B9D635E88B689C.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.XR.ARKit.ref.dll_9034BC573BB121BC.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.XR.ARSubsystems.Editor.ref.dll_23E9FFAA50A1CB4D.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.XR.ARSubsystems.ref.dll_55F3343EB4EDB2A4.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.XR.CoreUtils.Editor.ref.dll_41611F7ED100D9A8.mvfrm
